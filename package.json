@@ -1,0 +1,35 @@
+{
+  "name": "flash-protocol-system",
+  "version": "1.0.0",
+  "description": "Sistema de Protocolo Flash",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx hardhat run scripts/menu.js --network bsc",
+    "start:local": "npx hardhat run scripts/menu.js --network hardhat",
+    "start:testnet": "npx hardhat run scripts/menu.js --network bscTestnet",
+    "deploy": "hardhat run scripts/deploy.js --network bsc",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network bscTestnet",
+    "compile": "hardhat compile",
+    "clean": "hardhat clean"
+  },
+  "keywords": [
+    "blockchain",
+    "protocol",
+    "flash"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "chalk": "^4.1.2",
+    "hardhat": "^2.22.19",
+    "inquirer": "^8.2.6",
+    "moment-timezone": "^0.5.47"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}

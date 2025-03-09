@@ -1,0 +1,353 @@
+{
+  "operations": [
+    {
+      "id": "deploy_1741011718057",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T14:21:58.057Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xf84326Cd7b926e5E54dAc363E84b5a7C1b3a7C7e",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x4a7d8B66f56b89CFD47863537B368398494EeD7e",
+      "deployment": {
+        "gasLimit": "1202583",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x2c4e087776fea324da595d99e8859186697625c5a5c057cfdad162a7213152fc"
+      }
+    },
+    {
+      "id": "deploy_1741011922013",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T14:25:22.013Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0x379d158abCCb4A3f0AB5D9C1289517D8E7c50937",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x4a7d8B66f56b89CFD47863537B368398494EeD7e",
+      "deployment": {
+        "gasLimit": "1262262",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x212620f052559755c29c06fd75d9c022a75c2d4db1fceec8200ee38d1b70ce7c"
+      }
+    },
+    {
+      "id": "deploy_1741018917649",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T16:21:57.649Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0x69F0e1d965cfe169325c902e8f334E99EF338eeb",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "100000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "deployment": {
+        "gasLimit": "1202536",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x76adf2fba4a1f2e1547eab22dd1df2de587183a8599ef8f7dc564963f5277d76"
+      }
+    },
+    {
+      "id": "deploy_1741045189728",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T23:39:49.728Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xAc193e769FF2836Bea357D030c96b43Ad7d0Fa04",
+      "tokenData": {
+        "name": "TetherUS",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0xc65421392424ecc8f5043c3cad355712cef3adef",
+      "deployment": {
+        "gasLimit": "1202552",
+        "gasPrice": "1000000000",
+        "transactionHash": "0xe0d4b6ccbae10dc54b9af9b5a04d4ad61924a5ef2972058df598fb71b20ac37e"
+      }
+    },
+    {
+      "id": "deploy_1741145697498",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-05T03:34:57.498Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xf80e3A3858D2B147F94C4C7FFFc98B6b6A1e2d48",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "deployment": {
+        "gasLimit": "1645881",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x276b5804fbbd36f6b5cabbd84b2b75f61448c4a2bc82377d114633d363fca08a"
+      }
+    }
+  ],
+  "protocols": [
+    {
+      "address": "0xf84326Cd7b926e5E54dAc363E84b5a7C1b3a7C7e",
+      "id": "deploy_1741011718057",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T14:21:58.057Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xf84326Cd7b926e5E54dAc363E84b5a7C1b3a7C7e",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x4a7d8B66f56b89CFD47863537B368398494EeD7e",
+      "deployment": {
+        "gasLimit": "1202583",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x2c4e087776fea324da595d99e8859186697625c5a5c057cfdad162a7213152fc"
+      }
+    },
+    {
+      "address": "0x379d158abCCb4A3f0AB5D9C1289517D8E7c50937",
+      "id": "deploy_1741011922013",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T14:25:22.013Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0x379d158abCCb4A3f0AB5D9C1289517D8E7c50937",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x4a7d8B66f56b89CFD47863537B368398494EeD7e",
+      "deployment": {
+        "gasLimit": "1262262",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x212620f052559755c29c06fd75d9c022a75c2d4db1fceec8200ee38d1b70ce7c"
+      }
+    },
+    {
+      "address": "0x69F0e1d965cfe169325c902e8f334E99EF338eeb",
+      "id": "deploy_1741018917649",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T16:21:57.649Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0x69F0e1d965cfe169325c902e8f334E99EF338eeb",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "100000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "deployment": {
+        "gasLimit": "1202536",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x76adf2fba4a1f2e1547eab22dd1df2de587183a8599ef8f7dc564963f5277d76"
+      }
+    },
+    {
+      "address": "0xAc193e769FF2836Bea357D030c96b43Ad7d0Fa04",
+      "id": "deploy_1741045189728",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-03T23:39:49.728Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xAc193e769FF2836Bea357D030c96b43Ad7d0Fa04",
+      "tokenData": {
+        "name": "TetherUS",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0xc65421392424ecc8f5043c3cad355712cef3adef",
+      "deployment": {
+        "gasLimit": "1202552",
+        "gasPrice": "1000000000",
+        "transactionHash": "0xe0d4b6ccbae10dc54b9af9b5a04d4ad61924a5ef2972058df598fb71b20ac37e"
+      }
+    },
+    {
+      "address": "0xf80e3A3858D2B147F94C4C7FFFc98B6b6A1e2d48",
+      "id": "deploy_1741145697498",
+      "type": "DEPLOY",
+      "network": {
+        "name": "bsc",
+        "chainId": "56"
+      },
+      "timestamp": "2025-03-05T03:34:57.498Z",
+      "status": "completed",
+      "description": "Flash Protocol",
+      "deployer": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "protocolAddress": "0xf80e3A3858D2B147F94C4C7FFFc98B6b6A1e2d48",
+      "tokenData": {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "displaySymbol": "USDT (@$1.00)",
+        "decimals": "18",
+        "initialSupply": "5184994501000000000000000000",
+        "isPegged": true,
+        "pegValue": 1,
+        "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      },
+      "targetAddress": "0x1FbB464FA4b7ef63f292aAC48a406aF42786eD69",
+      "deployment": {
+        "gasLimit": "1645881",
+        "gasPrice": "1000000000",
+        "transactionHash": "0x276b5804fbbd36f6b5cabbd84b2b75f61448c4a2bc82377d114633d363fca08a"
+      }
+    }
+  ],
+  "lastUpdate": "2025-03-05T00:34:57-03:00",
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2025-03-03T11:21:13-03:00"
+  },
+  "peggedTokens": {
+    "0xf84326Cd7b926e5E54dAc363E84b5a7C1b3a7C7e": {
+      "name": "Tether USD",
+      "symbol": "USDT (@$1.00)",
+      "decimals": "18",
+      "pegValue": 1,
+      "type": "Stablecoin",
+      "deployDate": "2025-03-03T14:21:58.057Z",
+      "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+    },
+    "0x379d158abCCb4A3f0AB5D9C1289517D8E7c50937": {
+      "name": "Tether USD",
+      "symbol": "USDT (@$1.00)",
+      "decimals": "18",
+      "pegValue": 1,
+      "type": "Stablecoin",
+      "deployDate": "2025-03-03T14:25:22.013Z",
+      "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+    },
+    "0x69F0e1d965cfe169325c902e8f334E99EF338eeb": {
+      "name": "Tether USD",
+      "symbol": "USDT (@$1.00)",
+      "decimals": "18",
+      "pegValue": 1,
+      "type": "Stablecoin",
+      "deployDate": "2025-03-03T16:21:57.649Z",
+      "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+    },
+    "0xAc193e769FF2836Bea357D030c96b43Ad7d0Fa04": {
+      "name": "TetherUS",
+      "symbol": "USDT (@$1.00)",
+      "decimals": "18",
+      "pegValue": 1,
+      "type": "Stablecoin",
+      "deployDate": "2025-03-03T23:39:49.728Z",
+      "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+    },
+    "0xf80e3A3858D2B147F94C4C7FFFc98B6b6A1e2d48": {
+      "name": "Tether USD",
+      "symbol": "USDT (@$1.00)",
+      "decimals": "18",
+      "pegValue": 1,
+      "type": "Stablecoin",
+      "deployDate": "2025-03-05T03:34:57.498Z",
+      "iconUrl": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+    }
+  }
+}
